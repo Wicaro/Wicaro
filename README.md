@@ -39,8 +39,8 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
-
-
+- 👨‍🚀 Discord OneUx [#1](https://discord.gg/g3PZvy6wv5)
+- 🌎 Site OneUX [#1](oneux.com.br)
 
 
 
