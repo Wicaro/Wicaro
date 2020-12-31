@@ -40,7 +40,7 @@
 ### Linguagens e ferramentas 🛠 
 
 ![PHP](http://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
-![Laravel](http://img.shields.io/badge/-Laravel-3776AB?style=flat-square&logo=laravel&logoColor=ffffff)
+![Laravel](http://img.shields.io/badge/-Laravel-F72C1F?style=flat-square&logo=laravel&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
