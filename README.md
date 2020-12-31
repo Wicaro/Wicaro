@@ -16,7 +16,11 @@
 
 <p align="center">
 
-<a href="mailto:wicaromendes@hotmail.com?subject=Olá%Koda"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Wicaro" />
+</p>
+
 
 
 
