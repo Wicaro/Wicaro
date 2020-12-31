@@ -62,7 +62,6 @@
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-F75EEE?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 
 
-<br/>
 
 <p align="center">
 Não se trata de ter ideias, mas sim de levar essas ideias para a vida real.” — Scott Belsky
