@@ -69,6 +69,6 @@ Não se trata de ter ideias, mas sim de levar essas ideias para a vida real.” 
 </p>
 
 <p align="center">
-🚀 **OneUx is the future - Eu acredito.** 
+🚀 **OneUx is the future.** 
 </p>
 
