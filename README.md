@@ -1,4 +1,8 @@
-## Hello World!
+<p align="center">
+ <img width="100px" src="https://cdn.discordapp.com/icons/693164410205765684/a_8d9ed1ddfa53e85464d1739b118f12b7.gif" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+</p>
 
 [<img src="https://img.shields.io/github/followers/Wicaro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Wicaro) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wicaromendes@gmail.com)
@@ -15,9 +19,6 @@
       <img src="https://img.shields.io/badge/OneUx%20-Site%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
 
-
-
-<img align= "right" width= "240" src= "https://cdn.discordapp.com/icons/693164410205765684/a_8d9ed1ddfa53e85464d1739b118f12b7.gif"/>
 
 
 
