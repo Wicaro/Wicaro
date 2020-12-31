@@ -26,6 +26,7 @@
 </p>
 
 <br/>
+
 - 👨‍💻 Olá me chamo **Koda**, tenho 17 anos e sou estudante de **Programação**.
 - 📚 Tenho um grande interesse por interfaces gráficas, front-end, realidade virtual e IA. 😅
 - 👨‍🚀 Diretor da comunidade de programação e designers - **OneUx**.
