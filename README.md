@@ -39,7 +39,7 @@
 
 
 
- ### Linguagens e ferramentas 🛠** 
+ ### Linguagens e ferramentas 🛠
 
 ![PHP](http://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](http://img.shields.io/badge/-Laravel-F72C1F?style=flat-square&logo=laravel&logoColor=ffffff)
