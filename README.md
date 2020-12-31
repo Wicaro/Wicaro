@@ -7,7 +7,7 @@
 - 👨‍💻 Olá me chamo **Koda**, tenho 17 anos e sou estudante de **Programação**.
 - 📚 Tenho um grande interesse por interfaces gráficas, front-end, realidade virtual e IA. 😅
 - 👨‍🚀 Diretor da comunidade de programação e designers - **OneUx**.
-
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
   <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
@@ -16,7 +16,7 @@
 
 
 
-### Languages and Tools 🛠 
+### Linguagens e ferramentas 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
