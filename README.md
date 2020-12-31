@@ -7,7 +7,7 @@
 - 👨‍💻 Olá me chamo **Koda**, tenho 17 anos e sou estudante de **Programação**.
 - 📚 Tenho um grande interesse por interfaces gráficas, front-end, realidade virtual e IA. 😅
 - 👨‍🚀 Diretor da comunidade de programação e designers - **OneUx**.
-- 👨‍🚀 Discord OneUx [https://discord.gg/g3PZvy6wv5](https://discord.gg/g3PZvy6wv5)
+
 
 
 
@@ -40,6 +40,8 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
+
+### :zap: Github Stats
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Wicaro&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Koda Github Stats" width="60%">
 
