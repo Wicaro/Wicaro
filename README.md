@@ -7,14 +7,15 @@
 - 👨‍💻 Olá me chamo **Koda**, tenho 17 anos e sou estudante de **Programação**.
 - 📚 Tenho um grande interesse por interfaces gráficas, front-end, realidade virtual e IA. 😅
 - 👨‍🚀 Diretor da comunidade de programação e designers - **OneUx**.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍🚀 Discord OneUx [https://discord.gg/g3PZvy6wv5](https://discord.gg/g3PZvy6wv5)
+
 
 
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-- 👨‍🚀 Discord OneUx [https://discord.gg/g3PZvy6wv5](https://discord.gg/g3PZvy6wv5)
+
 
 ### Linguagens e ferramentas 🛠 
 
