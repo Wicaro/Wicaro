@@ -14,7 +14,7 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-
+- Discord [https://discord.gg/g3PZvy6wv5](https://discord.gg/g3PZvy6wv5)
 
 ### Linguagens e ferramentas 🛠 
 
@@ -39,7 +39,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
- - Discord [https://discord.gg/g3PZvy6wv5](https://discord.gg/g3PZvy6wv5)
+ 
 
 
 
