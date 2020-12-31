@@ -13,9 +13,11 @@
 
 </p>
 
+<p>
 [<img src="https://img.shields.io/github/followers/Wicaro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Wicaro) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wicaromendes@gmail.com)
 
+</p>
 
 
 - 👨‍💻 Olá me chamo **Koda**, tenho 17 anos e sou estudante de **Programação**.
