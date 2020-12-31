@@ -1,12 +1,16 @@
 <p align="center">
  <img width="100px" src="https://cdn.discordapp.com/icons/693164410205765684/a_8d9ed1ddfa53e85464d1739b118f12b7.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Koda - Diretor OneUx</h2>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+</p>
+<p align="center">
+ 
+  <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/OneUx%20-Discord%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/OneUx%20-Site%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
+
 </p>
 
 [<img src="https://img.shields.io/github/followers/Wicaro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Wicaro) 
