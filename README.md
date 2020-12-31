@@ -17,7 +17,7 @@
 
 
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "240" src= "https://cdn.discordapp.com/icons/693164410205765684/a_8d9ed1ddfa53e85464d1739b118f12b7.gif"/>
 
 
 
