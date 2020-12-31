@@ -66,5 +66,9 @@
 
 <p align="center">
 Não se trata de ter ideias, mas sim de levar essas ideias para a vida real.” — Scott Belsky
+<br/>
+
+🚀 OneUx is the future 
+
 </p>
 
