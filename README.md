@@ -56,7 +56,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-563D7C?style=flat-square&logo=AdobeXD)
+![Adobe XD](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 
 <br/>
 
