@@ -2,7 +2,7 @@
  <img width="100px" src="https://cdn.discordapp.com/icons/693164410205765684/a_8d9ed1ddfa53e85464d1739b118f12b7.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Koda - Diretor OneUx</h2>
  <p align="center">Sejam bem-vindos ao meu GitHub</p>
-</p>
+
 
 [<img src="https://img.shields.io/github/followers/Wicaro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Wicaro) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wicaromendes@gmail.com)
@@ -51,5 +51,5 @@
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Wicaro&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Koda Github Stats" width="60%">
 
-
+</p>
 
