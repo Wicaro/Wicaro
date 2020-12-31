@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://cdn.discordapp.com/icons/693164410205765684/a_8d9ed1ddfa53e85464d1739b118f12b7.gif" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Koda - Diretor OneUx</h2>
+ <h2 align="center">Koda - Diretor da OneUx</h2>
 </p>
 <br>
 <p align="center">
