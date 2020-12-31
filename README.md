@@ -37,9 +37,9 @@
 
 
 
-<p align="center">
 
- **inguagens e ferramentas 🛠** 
+
+ ### Linguagens e ferramentas 🛠** 
 
 ![PHP](http://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](http://img.shields.io/badge/-Laravel-F72C1F?style=flat-square&logo=laravel&logoColor=ffffff)
@@ -60,7 +60,7 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-F75EEE?style=flat-square&logo=adobe-xd&logoColor=ffffff)
-</p>
+
 
 <br/>
 
