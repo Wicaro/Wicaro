@@ -20,10 +20,11 @@
 <a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:tallurisaisumanth77@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
 
 <br>
+
+</p>
+
 
 - 👨‍💻 Olá me chamo **Koda**, tenho 17 anos e sou estudante de **Programação**.
 - 📚 Tenho um grande interesse por interfaces gráficas, front-end, realidade virtual e IA. 😅
