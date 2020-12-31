@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://cdn.discordapp.com/icons/693164410205765684/a_8d9ed1ddfa53e85464d1739b118f12b7.gif" align="center" alt="Logo OneUx" />
- <h2 align="center">Koda - Diretor da OneUx</h2>
+ <h2 align="center">Wicaro Mendes (Koda) - Diretor da OneUx</h2>
 </p>
 <br>
 <p align="center">
@@ -26,7 +26,7 @@
 
 
 
-- 👨‍💻 Olá me chamo **Koda**, tenho 17 anos e sou estudante de **Programação**.
+- 👨‍💻 Olá me chamo **Wicaro Mendes**, tenho 17 anos e sou estudante de **Programação**.
 - 📚 Tenho um grande interesse por interfaces gráficas, front-end, realidade virtual e IA. 😅
 - 👨‍🚀 Diretor da comunidade de programação e designers - **OneUx**.
 
