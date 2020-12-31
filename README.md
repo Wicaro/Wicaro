@@ -10,7 +10,7 @@ Atualmente sou diretor da comunidade *OneUx* . Sou completamente apaixonado por 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
----
+
 
 ### Languages and Tools 🛠 
 
@@ -38,7 +38,7 @@ Atualmente sou diretor da comunidade *OneUx* . Sou completamente apaixonado por 
 
 <br/>
 
----
+
 
 - 💬 Pergunte-me sobre programação em geral, estou sempre <br> disponível para ajudar e aprender juntos.
 
