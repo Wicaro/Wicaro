@@ -69,6 +69,6 @@
 </p>
 
 <p align="center">
- 🚀 The **OneUx** **is** **the future** 
+ 🚀 OneUx is the future
 </p>
 
