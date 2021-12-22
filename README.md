@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center">Wicaro Mendes (Koda) - Diretor da OneUx</h2>
+ <h2 align="center">Wicaro Mendes (Koda) - Desenvolvedor & Designer UX/UI </h2>
 </p>
 <br>
 <p align="center">
