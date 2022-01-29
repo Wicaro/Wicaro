@@ -2,14 +2,6 @@
  <h2 align="center">Wicaro Mendes (Koda) - Desenvolvedor & Designer UX/UI </h2>
 </p>
 <br>
-<p align="center">
- 
-  <a href="https://discord.gg/g3PZvy6wv5">
-      <img src="https://img.shields.io/badge/OneUx%20-Discord%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-   
-
-</p>
 
 <p align="center">
 
