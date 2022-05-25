@@ -4,16 +4,6 @@
 <br>
 
 
-- 👨‍💻 Olá me chamo **Wicaro Mendes**, tenho 18 anos e sou estudante de **Programação**.
-- 📚 Tenho um grande interesse por interfaces gráficas, front-end, realidade virtual e IA. 😅
-
-
-
-
-
-
-
-
  ### Skills 🛠
 
 ![PHP](http://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
