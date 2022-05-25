@@ -1,20 +1,7 @@
 <p align="center">
- <h2 align="center">Wicaro Mendes (Koda) - Desenvolvedor & Designer UX/UI </h2>
+ <h2 align="center">Wicaro Mendes - Systems Analyst & Software Developer </h2>
 </p>
 <br>
-
-<p align="center">
-
-
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Wicaro" />
-</p>
-
-
-
-
-</p>
-
 
 
 - 👨‍💻 Olá me chamo **Wicaro Mendes**, tenho 18 anos e sou estudante de **Programação**.
@@ -27,7 +14,7 @@
 
 
 
- ### Linguagens e ferramentas 🛠
+ ### Skills 🛠
 
 ![PHP](http://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](http://img.shields.io/badge/-Laravel-F72C1F?style=flat-square&logo=laravel&logoColor=ffffff)
@@ -51,12 +38,7 @@
 
 <br/>
 
-
 <p align="center">
-“Não se trata de ter ideias, mas sim de levar essas ideias para a vida real.” — Scott Belsky
-</p>
-
-<p align="center">
- 🚀 Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
+ 🚀 Being a developer is a journey where the next stop is the solution of a problem.
 </p>
 
