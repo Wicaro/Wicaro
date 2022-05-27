@@ -5,7 +5,7 @@
  ### Skills 🛠
 
 ![Express](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=flat-square)
-![Adonis.js](https://img.shields.io/badge/adonis-220052?logo=adonisjs&style=flat-square&logoColor=white)
+![Adonis.js](https://img.shields.io/badge/Adonis-220052?logo=Adonisjs&style=flat-square&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
